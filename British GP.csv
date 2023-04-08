@@ -1,0 +1,21 @@
+position ,driver,driver id,constructor,constructor id,laps,time,points,grid
+1,Carlos Sainz,832,Ferrari,6,52,2:17:50.311,25,1
+2,Sergio Pérez,815,Red Bull,9,52,3.779,18,4
+3,Lewis Hamilton,1,Mercedes,13.1,52,6.225,16,5
+4,Charles Leclerc,844,Ferrari,6,52,8.546,12,3
+5,Fernando Alonso,4,Alpine F1 Team,21.4,52,9.571,10,7
+6,Lando Norris,846,McLaren,1,52,11.943,8,6
+7,Max Verstappen,50,Red Bull,9,52,18.777,6,2
+8,Mick Schumacher,47,Haas F1 Team,21.0,52,18.995,4,19
+9,Sebastian Vettel,20,Aston Martin,11.7,52,22.356,2,18
+10,Kevin Magnussen,76,Haas F1 Team,21.0,52,24.590,1,17
+11,Lance Stroll,840,Aston Martin,11.7,52,26.147,0,20
+12,Nicholas Latifi,5,Williams,3,52,32.511,0,10
+13,Daniel Ricciardo,817,McLaren,1,52,32.817,0,14
+14,Yuki Tsunoda,852,AlphaTauri,21.3,52,40.910,0,13
+,Esteban Ocon,839,Alpine F1 Team,21.4,37,Fuel pump,0,15
+,Pierre Gasly,842,AlphaTauri,21.3,26,Collision damage,0,11
+,Valtteri Bottas,77,Alfa Romeo,51,20,Gearbox,0,12
+,Alexander Albon,23,Williams,3,0,Collision,0,16
+,Guanyu Zhou,24,Alfa Romeo,51,0,Collision,0,9
+,George Russell,847,Mercedes,13.1,0,Collision,0,8
